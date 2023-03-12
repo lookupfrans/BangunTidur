@@ -1,18 +1,13 @@
 <!DOCTYPE html>
-<html>
+<html>	
+<head>
+<title> HTML audio Tag </title>
+</head>
+
 <body>
 
-<p>Click the button to display an alert box.</p>
-
-<button onclick="myFunction()">Click me</button>
-
-<script>
-	function myFunction() {
-			
-	alert("I am an alert box!");
-			
-		}
-</script>
-
+     <audio controls>
+     <source src="https://on.soundcloud.com/GbQAB.mp3" type="audio/mp3">
+     </audio>
 </body>
 </html>
