@@ -52,10 +52,11 @@ body {
     font-size: 20px;
     text-align: center;
     transition: 0.2s all linear; 
+    background-color: black;
 } 
 
 .row button:hover{
-    background-color: black;
+    background-color: grey;
 }
 
 .row button:active{
