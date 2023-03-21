@@ -5,6 +5,10 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+body {
+  background-color: black;
+}
+
 .container{
     position: absolute;
     left: 50%;
